@@ -1,0 +1,33 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+h4{
+    margin: 0px;
+    background-color: rgb(158, 158, 160);
+    line-height: 2;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+#instructions_data{
+    font-size: 20px;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px ghostwhite;
+    border: 2.5px solid ghostwhite;
+    margin: 15px;
+}
